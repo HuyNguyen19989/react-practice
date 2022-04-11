@@ -9,7 +9,6 @@ const Modal = (props) => {
 
   useEffect(() => {
     setVisible(props.visible)
-    console.log(props.footer !== null)
   }, [props.visible])
 
   return ReactDOM.createPortal(
