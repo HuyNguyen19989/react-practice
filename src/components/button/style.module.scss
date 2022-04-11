@@ -1,0 +1,27 @@
+.modal__btn {
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    padding: 6px 15px;
+    border: 1px solid #001b3a;
+    box-sizing: border-box;
+    border-radius: 4px;
+    background-color: #fff;
+    cursor: pointer;
+    -webkit-appearance: button;
+    text-transform: none;
+    margin: 0;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    height: 33px;
+  }
+  
+  .modal__btn__primary {
+    background-color: #ea580c;
+    border: none;
+    color: #fff;
+    margin-left: 16px;
+  }
