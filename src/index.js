@@ -5,7 +5,7 @@ import Modal from './components/modal/modal'
 import Button from './components/button/button'
 
 const App = () => {
-  const [modal1, setModal1] = useState(false);
+  const [modal1, setModal1] = useState(true);
   const [modal2, setModal2] = useState(false);
   const [modal3, setModal3] = useState(false);
 
